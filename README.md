@@ -1,3 +1,3 @@
 # fiveM-car-spawner
 
-Basic FiveM car spawer.
+Basic FiveM car spawer/remover.
